@@ -1,4 +1,4 @@
-# HR-Attrition-Anlaysis
+# HR-Analytics-Dashboard
 
 ## Table of Contents
 - [About](#about)
@@ -10,7 +10,11 @@
 
 ## About
 
-This project focuses on delivering high-quality, affordable, and nutritious meals for young professionals and college students. It aims to revolutionize food delivery with transparency, consistency, and eco-friendly practices
+HR Analytics Dashboard – Excel
+
+Developed an interactive HR attrition dashboard in Excel using PivotTables, charts, and conditional formatting to analyze employee turnover.
+Automated data processing and visualization with formulas, Power Query, and dynamic dashboards to track key attrition trends.
+Provided insights on employee retention by analyzing factors like tenure, department, and performance, aiding HR decision-making.
 
 ## Installation
 
